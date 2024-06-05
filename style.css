@@ -31,7 +31,7 @@ footer {
 
 @media screen and (max-width:48rem) {
   .first-line {
-    text-align: center;
+    text-align:center;
   }
 
     .second-line {
@@ -42,6 +42,5 @@ footer {
     
     .third-line {
         display: block;
-        text-align: center;
       }
-    }
+}
